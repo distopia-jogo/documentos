@@ -1,0 +1,25 @@
+Documentação:
+
+Lista de tarefas que faltam:
+
+ - Lista de Símbolos;
+ - 2.4.1 Software Krita
+ - 2.4.2 Engine Unity
+ - 2.4.3 FL Studio
+
+ - 3.1 Gráfico de Gantt
+
+ - 3.4 Produção Sonora
+
+ - 3.6 Primeiros Passos e Referências
+
+ - 3.8 Enigmas e Puzzles
+ - 3.8.1 Primeiro puzzle
+ - 3.8.2 Segundo puzzle
+ - 3.8.3 Terceiro puzzle
+
+
+
+ 
+ 
+
