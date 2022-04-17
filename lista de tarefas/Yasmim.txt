@@ -1,0 +1,15 @@
+Minhas tarefas:
+Elaborar cronograma.
+Criar apresentação base para todas as prévias de DTCC.
+Melhorar resolução das artes do jogo.
+Rever todas as animações dos personagens.
+Fazer animações de ambientação do cenário.
+Fazer icones do jogo.
+Criar animações para os frames dos personagens.
+Modelar cenário.
+Organizar Assets das artes e imagens utilizadas no jogo.
+Montar Tileset dentro da unity.
+Ajudar o Edu.
+
+Talvez:
+Fazer imagens para o marketing

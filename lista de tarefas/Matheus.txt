@@ -1,0 +1,7 @@
+Tarefas Front End:
+Modelagem das personagens;
+Modelagem dos objetos de cenários;
+Animações das personagens;
+Modelagem do fundo de cenário;
+Procurar ferramentas para modelagem e construção do jogo;
+Desenvolver ícone do jogo;
